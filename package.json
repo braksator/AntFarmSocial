@@ -1,0 +1,35 @@
+{
+  "name": "antfarmsocial",
+  "version": "1.0.0-a",
+  "description": "Ant Simulator",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antfarm",
+    "ant",
+    "simulator",
+    "ant farm",
+    "ice cream social"
+  ],
+  "author": "D.A. Braksator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braksator/AntFarmSocial/issues"
+  },
+  "homepage": "https://github.com/braksator/AntFarmSocial#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/braksator/AntFarmSocial.git"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "gulp": "^5.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.1.4",
+    "gulp-terser": "^2.1.0"
+  }
+}
