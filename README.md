@@ -1,18 +1,13 @@
-# AntFarmSocial
+# Ant Farm Social
 
 Ant Simulator
 
-===========
-
-
 ![Ant Farm Social](./img/antFarm.png)
-
 
 A web browser-based ant simulator game that is best played with a large 
 monitor and a lot of spare time. Game doesn't run properly in the background.
 
 > Influenced by Matt & Mattingly's Ice Cream Social podcast, and Scoop Group.
-
 
 ## Developing
 
@@ -29,7 +24,6 @@ terser minifier - try to keep optimising that by analyzing the minified code
 for repeated strings and being familiar with the existing aliases.
 You can edit antViewer.html or create a similar file to test out animations
 and other ideas.  Other than that, take your cues from what is already there.
-
 
 *************************************
 Created by D.A. Braksator, 2023-2024.
