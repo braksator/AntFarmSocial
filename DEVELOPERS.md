@@ -13,7 +13,8 @@ finding this and confused about how to get back into it, here are some tips:
 - Generate those files by running the command "gulp", or alternatively 
   "gulp --dev" which is easier for debugging.
 - Gulp will then wait and watch for changes in the /css, /js, /html
-  directories as long as it is left running.
+  directories as long as it is left running.  You should read the gulpfile
+  so that you are aware of some of the quirks in this project.
 - If you create new css/js/html files, you'll need to study the gulpfile
   to figure out where to properly handle that.  Quit and restart gulp to test!
 - You'll notice aliases used in the JS for common properties and functions,
@@ -28,4 +29,3 @@ finding this and confused about how to get back into it, here are some tips:
   'npm version patch', 'npm version minor' etc.., or modifying the package.json
   as the version is shown in the UI.
 
-  
