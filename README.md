@@ -2,7 +2,7 @@
 
 Ant Simulator
 
-![Ant Farm Social](./img/antFarm.png)
+![Ant Farm Social](./img/antFarmSocial.jpg)
 
 A web browser-based ant simulator game that is best played with a large 
 monitor and a lot of spare time. Game doesn't run properly in the background.

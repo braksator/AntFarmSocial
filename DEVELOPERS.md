@@ -6,14 +6,14 @@ I'm reluctant to maintain contributions, excepting egregious bugs.  Feel free
 to remix this into your own game.  If you're doing that, or you're future me
 finding this and confused about how to get back into it, here are some tips:
 
-- Install NodeJS on your machine.
+- Start by installing NodeJS on your machine (there is an MSI installer).
 - Open repository folder in Visual Studio Code or similar editor.
 - Run "npm update" in the command line terminal.
 - DON'T EVER edit "index.html", "afs.min.js", or "afs.min.css"!
 - Generate those files by running the command "gulp", or alternatively 
   "gulp --dev" which is easier for debugging.
-- Gulp will then wait and watch for changes in the /css, /js, /html
-  directories as long as it is left running.  You should read the gulpfile
+- Gulp will then wait and watch for changes in the /src
+  directory as long as it is left running.  You should read the gulpfile
   so that you are aware of some of the quirks in this project.
 - If you create new css/js/html files, you'll need to study the gulpfile
   to figure out where to properly handle that.  Quit and restart gulp to test!
@@ -28,4 +28,7 @@ finding this and confused about how to get back into it, here are some tips:
 - Prior to releasing code, update the app version by running
   'npm version patch', 'npm version minor' etc.., or modifying the package.json
   as the version is shown in the UI.
+- GitHub has an app called "GitHub Desktop" that makes the git stuff easier.
+- For graphics and UI design ideas check [this Pinterest board](https://www.pinterest.com.au/braksator/antfarmsocial/)
+  
 
