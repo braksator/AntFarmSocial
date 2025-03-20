@@ -1,4 +1,4 @@
 # Ant Farm Social
 
-[Moved to https://github.com/antfarmsocial/antfarmsocial](https://github.com/antfarmsocial/antfarmsocial)
+[Moved to https://github.com/antfarmsocial/antfarmsocial](https://github.com/antfarmsocial/AntFarmSocial)
 
